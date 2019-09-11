@@ -1,5 +1,5 @@
 {
-	"name": "js-stack",
+	"name": "@sreetamdas/js-stack",
 	"version": "0.1.0",
 	"description": "Boilerplate for JS Stack",
 	"main": "index.js",
